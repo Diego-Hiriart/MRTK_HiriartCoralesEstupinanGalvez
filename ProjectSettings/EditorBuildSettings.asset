@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VR-HCEG.unity
+    guid: 4c08bd30e7b8d254384403eb4b297294
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3038bb903e14ce44cb94f6b79deb9713, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 0f2e76b578e920d4dabbf99dbf37d746, type: 2}
